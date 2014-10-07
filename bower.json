@@ -1,0 +1,30 @@
+{
+  "name": "symbolset-all",
+  "version": "0.0.0",
+  "authors": [
+    "Jarrett Drouillard <jarrett@thestyl.us>"
+  ],
+  "description": "Grabs all components for the Symbolset libraries.",
+  "keywords": [
+    "symbolset",
+    "iconfonts",
+    "icon",
+    "fonts",
+    "css",
+    "sass",
+    "js"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/kuatsure/symbolset-all",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "symbolset-sass": "~0.1.0",
+    "symbolset-js": "~0.1.0"
+  }
+}
