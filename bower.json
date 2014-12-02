@@ -25,6 +25,6 @@
   ],
   "dependencies": {
     "symbolset-sass": "~0.2.0",
-    "symbolset-js": "~0.2.0"
+    "symbolset-js": "~0.3.0"
   }
 }
