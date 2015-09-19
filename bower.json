@@ -24,7 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "symbolset-sass": "~0.2.0",
-    "symbolset-js": "~0.3.0"
+    "symbolset-sass": "~0.3.0",
+    "symbolset-js": "~0.4.0"
   }
 }
