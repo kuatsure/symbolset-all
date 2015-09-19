@@ -14,5 +14,5 @@ $ bower install symbolset-all -S
 
 See the various repos for usage details.
 
-* [symbolset-sass](https://github.com/kuatsure/symbolset-sass)
-* [symbolset-js](https://github.com/kuatsure/symbolset-js)
+* [symbolset-sass](https://github.com/kuatsure/symbolset-sass#usage)
+* [symbolset-js](https://github.com/kuatsure/symbolset-js#usage)
