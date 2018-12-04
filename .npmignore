@@ -1,4 +1,5 @@
 **/.*
 test
 tests
+bower.json
 yarn-error.log*
